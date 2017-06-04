@@ -12,6 +12,7 @@
     <p>demon1</p>
     <p>demon2</p>
     <p>代码写完push到远端</p>
+    <p>配置完毕准备合到develop</p>
 </body>
 
 </html>
